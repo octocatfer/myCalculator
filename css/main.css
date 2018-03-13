@@ -1,0 +1,32 @@
+body {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 100%;
+  margin: 40px 0 0 40px;
+}
+h1 {
+  font-family: HP Simplified, Arial, sans-serif;
+  text-align: center;
+}
+.calculator {
+  max-width: 218px;
+  border: 1px solid lightgray;
+  padding: 5px;
+}
+#box-total {
+  border: 1px solid #d1d2d3;
+  width: 202px;
+  height: 20px;
+  text-align: right;
+  padding: 3px;
+  margin-left: 4px;
+  margin-bottom: 3px;
+}
+button {
+  width: 50px;
+  padding: 10px 0;
+  font-size: 0.8em;
+  cursor: pointer;
+}
+.vacio {
+  width: 100%;
+}
